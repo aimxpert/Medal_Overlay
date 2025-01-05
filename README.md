@@ -1,0 +1,1 @@
+Internal Hook Medal overlay
